@@ -1,0 +1,20 @@
+div>p{
+    color: red;
+}
+
+h1+p{
+    color: red;
+
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    background-color: greenyellow;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
